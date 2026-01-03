@@ -1,4 +1,6 @@
-📁 GRC Portfolio Repository
+-----------------
+📁 GRC Portfolio
+-----------------
 
 Overview
 
@@ -6,12 +8,16 @@ This repository contains a Governance, Risk, and Compliance (GRC) portfolio deve
 
 All materials are designed to reflect how GRC activities are performed in real organizations, while remaining ethical, transparent, and portfolio-safe.
 
-⚠️ Important Disclaimer
+---------------------------
+⚠️ Important Disclaimer ⚠️
+---------------------------
 
 All organizations, systems, risks, and documents contained in this repository represent fictional portfolio projects.
-They were created solely for professional demonstration purposes and do not represent real companies, clients, or certifications.⚠️
+They were created solely for professional demonstration purposes and do not represent real companies, clients, or certifications.
 
+-----------------------------
 🎯 Purpose of This Portfolio
+-----------------------------
 
 * The purpose of this portfolio is to demonstrate:
 * Practical understanding of risk-based security governance
