@@ -19,7 +19,8 @@ They were created solely for professional demonstration purposes and do not repr
 🎯 Purpose of This Portfolio
 -----------------------------
 
-* The purpose of this portfolio is to demonstrate:
+The purpose of this portfolio is to demonstrate:
+
 * Practical understanding of risk-based security governance
 * Ability to conduct structured risk assessments
 * Experience maintaining risk registers and treatment plans
